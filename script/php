@@ -1,0 +1,8 @@
+"set foldmethod=indent
+set fdn=2
+set fdl=1
+" Don't use the PHP syntax folding
+setlocal foldmethod=manual
+" Turn on PHP fast folds
+EnableFastPHPFolds
+let php_folding=0  
