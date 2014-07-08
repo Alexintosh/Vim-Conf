@@ -1,0 +1,5 @@
+source ~/.vim/script/demi_indent
+Fold UNQUOTED-REGEXP 
+set foldmethod=syntax
+set fdn=2
+set fdl=1

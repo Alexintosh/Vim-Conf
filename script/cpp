@@ -1,0 +1,6 @@
+set foldmethod=syntax
+set fdn=2
+set fdl=1
+
+syn keyword perso foreach
+hi def link perso Repeat

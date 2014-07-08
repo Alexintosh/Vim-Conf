@@ -1,0 +1,6 @@
+source ~/.vim/script/demi_indent
+set foldmethod=marker
+set fdn=2
+set fdl=1
+
+set dictionary+=~/.vim/dict/node.dict
