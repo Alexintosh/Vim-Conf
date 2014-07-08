@@ -47,3 +47,7 @@ Inspiration from [vim-haml](https://github.com/tpope/vim-haml),
 ## License ##
 
 MIT : [groenewege.mit-license.org](http://groenewege.mit-license.org/)
+=======
+Vim-Conf
+========
+
